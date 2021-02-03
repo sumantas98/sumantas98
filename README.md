@@ -5,10 +5,10 @@
 -->
 About Me:
 
-- 🔭 I’m currently working on intractive custom chatbot in TCS for an insurance company,
-- 🌱 I’m currently learning <b>Docker for CI/CD and NLP.</b>
-- 👯 I’m looking to collaborate on <b>scratch project related to Chatbot building,Automation,Custom API design and Data Visualization using Tableau</b>
-- 🤔 I’m looking for help with <b> Deep Learning Model and Image Processing using PyTourch </b>
+- 🔭 I’m currently working on intractive custom chatbot in TCS for an insurance company
+- 🌱 I’m currently learning <b>Docker for CI/CD and NLP Technology</b>
+- 👯 I’m looking to collaborate on <b>scratch project related to Chatbot building, Automation, Custom API design and Data Visualization using Tableau</b>
+- 🤔 I’m looking for help with <b>Deep Learning Model and Image Processing using PyTourch </b>
 - 💬 Ask me about <b> RPA, Automations, Integrations, Data Science </b> 
 - 📫 How to reach me:
 <ul>
@@ -16,7 +16,7 @@ About Me:
   <li><a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSPFdVpbqzThRjnGsNdcCwFQVbQMjWdXSCdWRcfRMXfzxRRCvBvtvpMbgVTlhGcgZwpQjfMS">EmailMe</a></li>
   <li><a href="https://web.whatsapp.com/">WhatsApp Me</a></li>
 </ul>  
-- 😄 Interests: <b> Gossiping with innovative topic,Listening music </b> <br>
-- ⚡ Fun fact: <b> Cleaning working and leaving place 5 times in a day </b>
+ - 😄 Interests: <b> Gossiping with innovative topic, Listening music </b> <br>
+ - ⚡ Fun fact: <b> Cleaning working and leaving place 5 times in a day </b> 😜
 
 
