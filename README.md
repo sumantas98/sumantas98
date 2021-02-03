@@ -3,7 +3,7 @@
 <!--
 **sumantas98/sumantas98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+About Me:
 
 - 🔭 I’m currently working on intractive custom chatbot in TCS for an insurance company,
 - 🌱 I’m currently learning <b>Docker for CI/CD and NLP.</b>
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   <li><a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSPFdVpbqzThRjnGsNdcCwFQVbQMjWdXSCdWRcfRMXfzxRRCvBvtvpMbgVTlhGcgZwpQjfMS">EmailMe</a></li>
   <li><a href="https://web.whatsapp.com/">WhatsApp Me</a></li>
 </ul>  
-- 😄 Interests: <b> Gossiping with inovative topic,Listening Song</b>
-- ⚡ Fun fact: <b> Cleaning working and leaving place </b>
+- 😄 Interests: <b> Gossiping with innovative topic,Listening music </b> <br>
+- ⚡ Fun fact: <b> Cleaning working and leaving place 5 times in a day </b>
 
 
