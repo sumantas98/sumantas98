@@ -5,7 +5,7 @@
 -->
 About Me:
 
-- 🔭 I’m currently working on intractive custom chatbot in TCS for an insurance company
+- 🔭 I’m currently working on <b>intractive custom chatbot </b>in TCS for an insurance company
 - 🌱 I’m currently learning <b>Docker for CI/CD and NLP Technology</b>
 - 👯 I’m looking to collaborate on <b>scratch project related to Chatbot building, Automation, Custom API design and Data Visualization using Tableau</b>
 - 🤔 I’m looking for help with <b>Deep Learning Model and Image Processing using PyTourch </b>
