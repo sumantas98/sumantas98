@@ -15,8 +15,8 @@ About Me:
   <li><a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSPFdVpbqzThRjnGsNdcCwFQVbQMjWdXSCdWRcfRMXfzxRRCvBvtvpMbgVTlhGcgZwpQjfMS">EmailMe</a></li>
   <li><a href="https://web.whatsapp.com/">WhatsApp Me</a></li>
 
-<li> 😄 Interests: <b> Gossiping with innovative topic, Listening music </b></li> 
-<li> ⚡ Fun fact: <b> Cleaning working and leaving place 5 times in a day </b> 😜</li>
+ <li>😄 Interests: <b> Gossiping with innovative topic, Listening music </b></li> 
+ <li>⚡ Fun fact: <b> Cleaning working and leaving place 5 times in a day </b> 😜</li>
 
 
 
