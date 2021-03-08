@@ -3,6 +3,7 @@
 <!--
 **sumantas98/sumantas98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+I am a curious learner. I try learning whatever comes on my way. Though, I keep special interest on Data Science and Automation Technologies. I have implemented saveral Projects on Machine Learning, Predictive analysis , Flask and NLP.
 About Me:
 
 - 🔭 I’m currently working on <b>intractive custom chatbot </b>in TCS for an insurance company
