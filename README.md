@@ -18,7 +18,7 @@ About Me:
   <li><a href="https://web.whatsapp.com/">WhatsApp Me-(+91-9732508294)</a></li>
 
  <li>😄 Interests: <b> Gossiping with innovative topic, Listening music </b></li> 
- <li>⚡ Fun fact: <b> Cleaning working and living place 5 times in a day </b> 😂🤣</li>
+ <li>⚡ Fun fact: <b> Cleaning working and living place </b> 😂🤣</li>
 
 
 
