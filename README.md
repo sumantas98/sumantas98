@@ -3,13 +3,13 @@
 <!--
 **sumantas98/sumantas98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-**I am a curious learner. I try learning whatever comes on my way. Though, I keep special interest on Data Science and Automation Technologies. I have implemented saveral Projects on Machine Learning, Predictive analysis , Flask and NLP.**
+**I am a curious learner. I try to learn whatever comes my way. However, I keep a particular interest in Data Science and Automation Technologies. I have implemented several Projects on Machine Learning, Predictive Analysis, Flask, and NLP.**
 
 About Me:
 
 - 🔭 I’m currently working on <b>intractive custom chatbot </b>in TCS for an insurance company
 - 🌱 I’m currently learning <b>Docker for CI/CD and NLP Technology</b>
-- 👯 I’m looking to collaborate on <b>scratch project related to Chatbot building, Automation, Custom API design and Data Visualization using Tableau,Natural Language Processing(NLP)</b>
+- 👯 I’m looking to collaborate on <b>scratch project related to Chatbot building, Automation, Custom API design, and Data Visualization using Tableau, Natural Language Processing(NLP)</b>
 - 🤔 I’m looking for help with <b>Deep Learning Model and Image Processing using PyTourch </b>
 - 💬 Ask me about <b> RPA, Automations, Integrations, Data Science </b> 
 - 📫 How to reach me:
