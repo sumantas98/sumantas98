@@ -2,7 +2,7 @@
 
 <!--
 **sumantas98/sumantas98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
--->
+--> 
 **I am a curious learner. I try to learn whatever comes my way. However, I have a particular interest in data science and automation technologies.I have implemented several Projects on Machine Learning, Predictive Analysis, Flask, and NLP.**
 
 About Me:
